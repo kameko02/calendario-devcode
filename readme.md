@@ -1,3 +1,3 @@
 # Calendario con JS
 
-Este es un proyecto usadno HTML, CSS y Javascript
+Este es un proyecto usando HTML, CSS y Javascript
